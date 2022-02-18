@@ -6,7 +6,7 @@ env:
     AWS_REGION: us-east-1
     AWS_ACCOUNT_ID: 884308339822
     IMAGE_NAME: pipeline-ecr
-    CONTAINER_NAME: ecs-rolling-update-container
+    CONTAINER_NAME: pipeline-ecs
 
 
 phases:
